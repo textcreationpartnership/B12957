@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the better execution of the office of His Maiesties Exchanger, and reformation of sundry abuses and fraudes practised vpon his Maiesties coynes.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12957</idno><idno type="EEBO-CITATION">99891177</idno>
+  <idno type="VID">188173</idno>
+  <idno type="EEBO-PROQUEST">2240920955</idno>
+  
+            <idno type="STC">STC 8860</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[19]</idno>
+            <idno type="STC">ESTC S100986</idno>
+            <idno type="PROQUEST">ocm99891177</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99891177e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188173)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the better execution of the office of His Maiesties Exchanger, and reformation of sundry abuses and fraudes practised vpon his Maiesties coynes.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>5 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M. DC. XXVII. [1627]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Appointing Henry Rich, Earl of Holland, to the post of Exchanger.</note>
+                  <note>Dated at end: ... White-Hall the fiue and twentieth day of May, in the third yeere of our reigne ... .</note>
+                  <note>Arms 11; Steele notation: currant  clamatiōs  2) disturbance  3) particu-  4) worke-  5) conuerted  for.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Holland, Henry Rich, --  Earl of, 1590-1649 --  Early works to 1800.</term>
+               <term type="topical_term">Monetary policy --  England --  Early works to 1800.</term>
+               <term type="topical_term">Coinage --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Precious metals --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188173:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>¶ A Proclamation for the better execution of the Office of His Ma<g ref="char:EOLhyphen"/>iesties Exchanger, and Reformation of sundry Abuses and Fraudes practised vpon his Maiesties Coynes.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the Exchange of all manner of Gold and Siluer currant</hi> in moneys, or otherwise, as the buying, selling, and exchanging of all manner of Bullion in Species of Forreigne Coynes, Billets, Ingots, or other pieces of Gold or Siluer fine, refined or allayed howsoeuer, being fit for Our Mint, hath euer been, and ought to be Our sole, and appropriate right, as part of Our Prerogatiue Royall, and ancient Reuenew, wherein none of Our Subiects, of what Trade, Mystery, or quality soeuer, ought at all, without Our speciall Licence, to inter<g ref="char:EOLhyphen"/>meddle, the same being prohibited by diuers Acts of Parliament, &amp; Pro<g ref="char:EOLhyphen"/>clamatiōs both ancient &amp; moderne, heretofore made &amp; published in that behalte: And where as Our Seife, and diuers Our Royal Predecessours, haue, for some time now past, tolerated an indifferent, and promiscuous kinde of liberty to all, but especially to some of the Mystery &amp; Trade of Goldsmiths within Our Citie of <hi>London,</hi> &amp; elsewhere within Our Domini<g ref="char:EOLhyphen"/>ons, not onely to make the said Exchanges, but to buy and sell all maner of Bullion of Gold &amp; Sil<g ref="char:EOLhyphen"/>uer; and from thence some of them haue growen vnto that licenciousnesse, that they haue for di<g ref="char:EOLhyphen"/>uers yeeres presumed for their priuate lucre and gaine, and dayly doe presume to sort and weigh all sorts of Moneys currant within Our Realme, to the end to cull out the old and new Moneys, which either by not wearing, or by any other accident, are weightier then the rest; which weigh<g ref="char:EOLhyphen"/>tiest and best Moneys, haue not onely been molten downe for the making of Place, Vessell, and other Manufacturies, but euen traded and sold to Merchants, Strangers, and others, who haue transported the same, whereby the consumption of Our Coynes hath been greatly occasioned, not onely to the scarcitie of currant Moneys, especially of siluer Coyne, but also to the great depra<g ref="char:EOLhyphen"/>uation, and enfeebling of the remainder of Our Siluer moneys, not exported or consumed by the abuses and practises aforesaid, and to the raysing of the Siluer euen of Our owne Moneys to a Rate and Price aboue Our Mint, and aboue what they are truely currant for: By reason where<g ref="char:EOLhyphen"/>of no Siluer can bee brought thither, but to the losse of such as bring the same, contrary to the Lawes and policie of Our Realme, and of diuers Actes of Parliament, and late Proclamations in that case prouided and published; The longer permission of all which, would not onely re<g ref="char:EOLhyphen"/>dound to the impeachment of Our Prerogatiue Royall, but doth directly tend to the impouerish<g ref="char:EOLhyphen"/>ment and destruction of Our Realmes.</p>
+            <p>Wherefore, Wee vpon these, &amp; diuers other weightie considerations, with the Aduice and con<g ref="char:EOLhyphen"/>sent of Our Priuy Counsel, resoluing, not onely to proceede to an entire and perfect reformation of the aboue mentioned, and other such like abuses, by the diligence and industry of such, to whose tare and vigilancie Wee shall commit the same; but also to resume Our said right, and to com<g ref="char:EOLhyphen"/>mit the trust and exercise thereof to such as shall duely administer the same to Our profit, and the good of Our Realme, haue to that purpose, by Our Letters Patents, constituted and appointed Our right trusty and right welbeloued Cousin and Counsellour, <hi>Henry</hi> Earle of <hi>Holland,</hi> to haue the Office of Our Changes, Exchanges, and Outchanges wheresoeuer, within Our Realmes of <hi>England</hi> and <hi>Ireland,</hi> and Dommion of <hi>Wales,</hi> To exercise the same by himselfe, or such sufficient de<g ref="char:EOLhyphen"/>puties as he will answere for. And therefore, to the end that hee and they may the better per<g ref="char:EOLhyphen"/>forme
+<pb facs="tcp:188173:2"/>
+               <pb facs="tcp:188173:2"/>that trust which Wee haue committed vnto him, without the intermedling or disturbance of any other person whatsoeuer, Our expresse will and pleasure is, And Wee doe hereby straitly charge and command, That no Goldsmith, or other person or persons, of what Trade, Mystery, or quality soeuer, other then the said <hi>Henry,</hi> Earle of <hi>Holland,</hi> his Deputies, or Assignes, their Far<g ref="char:EOLhyphen"/>tors and seruants, within three miles of Our Citie of <hi>London,</hi> from and after the foure and twentieth day of <hi>Iune</hi> next comming, or in any other place of this Our Realme of <hi>England,</hi> and Dominion of <hi>Wales,</hi> or any of them, from and after the nine and twentieth day of <hi>September</hi> then next ensuing, presume, or doe change, exchange, or buy, or broke, sollicite, or driue the changing, ex<g ref="char:EOLhyphen"/>changing, selling or buying of any manner of Bullion in any <hi>Species</hi> of Forreigne Coyne, or in Billets. Ingots, or other pieces, or Masse of Gold or Siluer whatsoeuer, fine, refined or allayed, or of what other nature or qualitie soeuer: And that no person, or persons whatsoeuer, other then as aforesaid, and respectiuely after the times aforesaid presume, or doe giue, take, or receiue, for, by reason, or vpon the changing or exchanging of any the now currant Coynes, or which hereafter shalbe made &amp; declared the currant Moneys of this Our Realme of <hi>England,</hi> &amp; Dominion of <hi>Wales,</hi> for other the currant Moneys of the same, by way of payment, computation, reward, or thing for telling, or otherwise howsoeuer, any summe or summes of Money whatsoeuer, aboue, or more then the said currant Coynes so exchanged, be, or shalbe currant for. And for the better reformati<g ref="char:EOLhyphen"/>on of the abuses aboue mentioned, and others of such like nature, concerning, befalling, or practised vpon Our Coynes, or Bullion, or other Manufacturies of Gold or Siluer, Wee do hereby declare and publish Our Royall will and pleasure, which Wee command to bee strictly obserued in all things, that all persons whatsoeuer, doe effectually and respectiuely obserue, fulfill, and keepe the Articles and Ordinances hereunto annexed, as they will answere the contrary thereof at their vtter most perils.</p>
+            <p>And further, Wee doe by these presents will and require all and singuler Maiors, Sheriffes, Iustices of Peace, Bayliffes, Constables, Headboroughs, Customers, Comptrollers, Searchers, Wayters, and all other Our Officers, and ministers whatsoeuer, That they, and euery of them, in their seueral places and Offices be diligent, and attendant in the execution of this Our Proclama<g ref="char:EOLhyphen"/>tion, and the said Articies, and Ordinances, aswell in any Search for discouery of any act, or acts to be committed contrary to the intent of these presents, as otherwise in the doing and executing of any matter or thing needefull, or expedient for the accomplishment of this Our Royall Com<g ref="char:EOLhyphen"/>maund.</p>
+            <div type="articles">
+               <head>Articles, which, by vertue of Our Proclamation hereunto annexed, Wee will and commaund shall bee duely obserued.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">I</seg>Nprimis,</hi> Wee doe expressely will and command, according to a Proclamation, dated the eleuenth day of <hi>Iune,</hi> in the twentieth yeere of the reigne of Our Royal Father King <hi>Iames</hi> of blessed memorie, That no person or persons whatsoeuer, doe at any time hereafter, without Our speciall Licence in that behalfe, transport, carry, or conuay, nor attempt or endeuour to transport, carry or conuay out of this Realme any Gold or Siluer, either in coyne, plate, vessels, Iewels, Goldsmiths worke, Bullion, or other Masse, or otherwise howsoeuer: And further, That no person or persons whatsoeuer, doe ayde, assist, counsell, or any wise partake or consent with any other person or persons, purposing or at<g ref="char:EOLhyphen"/>tempting to transport, carry, or conuey out of this Realme any Golde or Siluer in any <hi>Species</hi> or kinde, as aforesaid, either by gathering or getting together such Golde or Siluer, or by packing vp the same fit for transportation, or conueying the same to, or towards any Port, Hauen, or other place of exportation, or by any other way, meanes, or colour whatsoeuer; And that all and singu<g ref="char:EOLhyphen"/>ler Goldsmiths, Merchants, and their Factors, Masters of Ships, Mariners, Passengers, and all other persons whatsoeuer, that shall haue any notice of Golde or Siluer in Coyne, Iewels, Bullion, Plate or Vessell, or otherwise howsoeuer, which hath bene already exported within the space of two yeeres last past, or shall bee hereafter exported or shipped for exportation, or shall bee gathered and gotten together by Change, Culling, or otherwise, with intention to export, or put into the hands of them which would export it, that they forthwith reueale the same to our Trea<g ref="char:EOLhyphen"/>surer of <hi>England,</hi> the Lord President of Our Priuy Counsel, the Vnder-Treasurer of Our Exche<g ref="char:EOLhyphen"/>quer, or the Warden of the Cinque-ports, or his Deputie, or to Our Attorney generall, or some other of Our learned Counsell, for which discouery, they shall haue and receiue in reward the one halfe of the sayd Gold or Siluer, or of the value thereof, being seized or recouered to Our vse; and on the other part, if they shall not discouer the same, as aforesayd, they shall incurre and receiue such condigne punishment, as by the Lawes of this Our Realme, or by Our prerogatiue Royall may bee inflicted vpon them.</p>
+               <pb facs="tcp:188173:3"/>
+               <pb facs="tcp:188173:3"/>
+               <p>
+                  <hi>Item,</hi> We will and command, that the Statutes and branches of Statutes hereafter particu<g ref="char:EOLhyphen"/>larly expressed, be duely put in execution (that is to say) the Statutes made at Yorke, in the ninth yeere of the reigne of King <hi>Edward</hi> the third, the sixth, ninth, and tenth Chapters, whereby it is prouided That from thenceforth, the Mayors and Bailiffes in euery Port where Merchants, and ships should be, should take an oath of the Masters, and Merchauts of ships, going, and comming againe, that they should doe no fraud against the prouision of that Law, in any point, and that good and strait search should be made in all places, vpon the Sea coasts, in Hauens, and eiswhere, where any arriual should be, by good, and lawfull men thereto sworne, that in the Kings name, they should make diligent search, that no man of what estate or degree soeuer, should carry out of this Realme, sterling money, siluer or plate, nor vessell of gold or siluer, with<g ref="char:EOLhyphen"/>our the Kings licence, and that the Searchers should haue the fourth part for their labour, of as much as they should finde so forfeited, and to loose all his goods; if he dispence with any man, and be thereof attaint, as by the same Statute (amongst other things) more fully doeth appeare: And one other Statute, made in the second yeere, of the raigne of king <hi>Henry</hi> the fourth the fifth chap<g ref="char:EOLhyphen"/>ter, whereby the King did ordaine, &amp; establish, That from thenceforth, if any searcher of the King might finde golde, or siluer in Coyne, or in Masse, in the keeping of any that should bee passing, or vpon his passage, in any ship, or vessel, for to goe out of any port, hauen, or creeke of the Realme, without the Kings speciall licence, that gold, or siluer, should be forfeited to the King (sauing his reasonable expences) as by the same Statute, it doth and may more at large appeare.</p>
+               <p>And We doe especially charge and command, that the Maiors, and Bayliffes in euery Port, where Merchants, and ships shalbe, and all such to whom the same shall, or may in any wise ap<g ref="char:EOLhyphen"/>pertaine, do from heuceforth with speciall careand vigilancy, not only take the oath of all Masters of ships, and Merchants, according to the true meaning of the sath statute, made in the ninth yeere of king <hi>Edward</hi> the third, but also take an oath of all such Masters, and Merchants of ships, going and comming, as aforesaid, that they haue not transported or conueyed out of this Realme, any gold, orsiluer, (contrary to the true intent of the said Proclamation (giuen the eleuenth day of <hi>Iune,</hi> in the twentieth yeere of the reigne of our sayd Royall father before recited) at any time or times since they, or any of them, respectiuely tooke, or had notice or knowledge, of Our prohibition there<g ref="char:EOLhyphen"/>of, by the first Article before contained.</p>
+               <p>
+                  <hi>Item,</hi> Wee will and command, That no Goldsmith, Finer, or Parter, or other person what<g ref="char:EOLhyphen"/>soeuer, of what Mystery, Trade, or quality soeuer hee be, presume, enterprize, or doe melt, or cause to be molten, any gold or siluer Coynes, which now are, or hereafter shalbe the currant moneys of any Our Realmes or Dominions, either to make Plate, Vessell, or for any other Manufacture, or vse whatsoeuer, norpresume, or doe cull, or sort from the rest, any the weightier Moneys, to the in<g ref="char:EOLhyphen"/>tent to conuey the same out of this Realme, or to melt, or otherwise to alter it from Coyne, con<g ref="char:EOLhyphen"/>trary to diuers Lawes and Proclamations published in that behalfe.</p>
+               <p>
+                  <hi>Item,</hi> that no person or persons, other then Our Changer, or Exchanger, for the time being, his Deputies, or Assignes, their Factors or Seruants, do receiue, or take by way of payment, exchange or computation, or other way whatsoeuer, directly or indirectly, for any <hi>Species</hi> of Forreigne Coine, or other Gold or Siluer, in Pieces, or Masse, fined, refined or allayed, aboue, or more then the Rates or Prices which now are, or hereafter shall, or may be giuen, payed, or allowed for the same, at Our Mint or Exchange.</p>
+               <p>
+                  <hi>Item,</hi> We will and declare, the Statute made in the eighteenth yeere of the reigne of the late Queene <hi>Elizabeth,</hi> Intituled, An Act for reformation of abuses in Goldsmiths, be put in due exe<g ref="char:EOLhyphen"/>cution. And whereas by that Act, no Goldsmith ought to take for any Plate, Vessell, or worke of Gouldsmitherie of gould, aboue twelue pence the ounce, nor for place, Vessell, or worke of gouldsmitherie of siluer, aboue twelue pence the pound weight, or rateably besides the fashion, more then the buyer shall, or may be allowed for the same at the Kings exchange, or Mynt, which good and profitable Law hath not beene yet of any effect, by reason, that vpon euery such sale of gould, or siluer-plate, or other Gouldsmiths worke, there is no distinction made, or rate set of gould, or siluer apart, and of the fashion apart, whereby might appeare what the one, or the other was rated and prized at: To the ende to auoid this confusion, Wee doe will and Com<g ref="char:EOLhyphen"/>mand, according to the rule and order of other States, That euery gouldsmith vpon euery sale of any gold, or siluer, or other worke of Gouldsmitherie, doe demand for, value, or rate apart, the gould, or siluer, and the fashion or workemanship apart. And vpon euery such sale, shall deliuer and giue vnto the buyer of any such place, or other worke of Gouldsmitherie demanding the same, a note, or ticket subseribed with his name, or marke, wherein shall be expressed, the day of the sale, and the weight of such plate, or vessell or other worke of Gouldsmitherie, of Gould or siluer sold, and the value or rate of gold and siluer apart, and the value and rate of fashion and worke<g ref="char:EOLhyphen"/>manship apart, by which may appeare at what rate, the one or the other is valued or rated, wher<g ref="char:EOLhyphen"/>by no frande or deceit can be made to the sayd Statute: And that the buyer, selling the same a<g ref="char:EOLhyphen"/>gaine, may know, what to demaund for the same at the Kings Exchange or Mynt.</p>
+               <pb facs="tcp:188173:4"/>
+               <pb facs="tcp:188173:4"/>
+               <p>
+                  <hi>Item,</hi> To the end to auoyde and put to Our Coyne all Gold-money currant within this Our Realme being Clipped, Washed, or by any other meanes vnlawfully diminished, or lacking of the iust weight thereof, otherwise then according to the rates hereafter seuerally expressed, and with the also wance of the remedies set down in diuers former Proclamations of Queene <hi>Elizabeth,</hi> and of Our late Father of blessed memory, (that is to say) In euery peece of Gold currant for xxx.s. xx.s. xv.s. x.s. v.s. ii.s. vi.d. the remedie and abatement shall not exceede <hi>4. Graines</hi> and a halfe, <hi>3. Graines, 2. Graines</hi> and a halfe, <hi>2. Graines, 1. Graine,</hi> halfe a <hi>Graine:</hi> All which remedies shal be allowed in euery peece accordingly, the same wanting no more being to passe, as if it were of full weight and iust value. But if any such peece of Coyne shall lacke of the true weight thereof aboue the remedies afore expressed, then We doe straitly charge and command, That no person or per<g ref="char:EOLhyphen"/>sons whatsoeuer shall accept or offer them in payment, vpon any allowance or defaulcation, for want of weight whatsoeuer, but that the same be, and stand by these presents decryed downe, and vncurrant. And that it shall be lawfull for euery person or persons, to whom offer of payment of any the sayd peeces lightned, as aforesayd, shall bee made, to braud the same, by striking a hole in euery of the sayd pieces so offered in payment, rendring those pieces so branded then presently af<g ref="char:EOLhyphen"/>terwards to the owners thereof againe: which sayd lightned or branded pieces, Our pleasure is, shall be brought and carryed to Our Exchanges or Mint, there againe to bee molten and conuer<g ref="char:EOLhyphen"/>ted into Coyne.</p>
+               <p>
+                  <hi>Item,</hi> Forasmuch as it is impossible, but that the rates and prices of Gold and Siluer in Our Mint, or Exchanges will bee exceeded, and the same not to bee preuented, so long as way shall or may be giuen for the bringing in, selling or venting of any false, deceitfull or counterfeit Golde or Siluer, Plate, Vessel, Wier, spangles, Oaes Gold or Siluer threed, Lace, Rings, Spoones, Bod<g ref="char:EOLhyphen"/>kins, or other Manufacturies, being not made, wrought, or sold according to the Standard of Our Mynt, or the Gold-smiths Hall, contrary to diuers Lawes and Proclamations heretofore en<g ref="char:EOLhyphen"/>acted and published for redresse of the same; Wee doe therefore will and command, That no such false, deceitfull or counterfet Stuffe, or Manufacturie whatsoeuer, of Gold or Siluer, lesse in fine<g ref="char:EOLhyphen"/>nesse, or standard then Our Moneys of Gold or Siluer be made, wrought, vented, sold, or imported within, or into Our said Realme of <hi>England,</hi> or any other our Dominions.</p>
+               <p>Declaring neuertheles, that We doe not intend by Our said Proclamation, or any of these pre<g ref="char:EOLhyphen"/>sent Articles, to restraine any of Our Merchants importing Bullion from the parts beyong the Seas, orany other of Our subiects for any Gold or Siluer growing, or found within any of Our Realms or Dominions whatsoeuer, but that they, and euery of them shall stil be, and remaine at liberty to carry their said Bullion vnto Our sayd Exchange, or to Our Mynt, there to be molten into Our Coynes at their election; Any thing in these presents notwithstanding. And yet Our pleasure is, &amp; We doe hereby straitly charge and command, That no Gold-smiths whatsoeuer, or other trading as a Gold-smith, shall, or doe by colour or pretence of being seruant or Factor to any such Merchant, or otherwise in the name of any such Merchant, buy, sell, or bring to Our Mynt, or otherwise intermeddle at all with any such Bullion, but after the sayd seuerall dayes be<g ref="char:EOLhyphen"/>fore limited, shall bring, and carry the same vnto Our sayd Exchanger, his Deputies. Factors, or Seruants, there to be sold, and exchanged, according to the true intent of Our sayd Letters Pa<g ref="char:EOLhyphen"/>tents, and Articles abouesayd; not intending neuerthelesse, but that the sayd Goldsmiths may vse their Trade of Goldsmithery as fully and amply, as heretofore they lawfully might or could doe: And that they &amp; euery of them may vse &amp; enioy the Franchises and liberties which they now law<g ref="char:EOLhyphen"/>fully haue &amp; hold, by or from the Grants, or Charters of Vs, or any Our Predecessors, Kings of <hi>England,</hi> and may likewise exchange, or buy any Gold or Siluer, Plate, in Vessell, or other Manu<g ref="char:EOLhyphen"/>factury of Gold or Siluer, as heretofore they lawfully might, or could, so that the same be bought or exchanged ouely to make Plate, or other worke of Goldsmithery, proper and belonging to their Trade, and be made and counerted into the same, and so as they doe not giue a rate, or price for the same, aboue the rate or price of Our Mynt; And likewise, that by colour or pretence hereof they doe not buy, exchange, or intermeddle at all with any Forreigne <hi>Species</hi> of Money, or other Bullion whatsoeuer, Imported, or comming from the parts beyond the Seas, or of the proper growth, or being found within any Our Realmes and Dominions: All which Our pleasure is, shall immediatly bee carryed, and brought vnto Our sayd Mynt, or Exchanges, to bee conuerted into Our Coyne, in augmentation and encrease thereof, for Our profit, and the good of Our Realme: Any prtence of practise, vsage, or custome herein made or had to the contrary in any wise notwithstanding.</p>
+               <pb facs="tcp:188173:5"/>
+               <pb facs="tcp:188173:5"/>
+               <p>
+                  <hi>Item,</hi> Our expresse Will and pleasure is, that the Premises, and euery Article thereof, be obser<g ref="char:EOLhyphen"/>ued and kept, not onely vpon paine and penaltie of such forfeitures and other punishments, as by any the Lawes or Statutes of this Our Realme, in such cases made and prouided, may bee in<g ref="char:EOLhyphen"/>flicted vpon the offendors in the Premises, but likewise vpon penaltie of such fines and cen<g ref="char:EOLhyphen"/>sures as by Our Court of Starre-chamber, may be inflicted vpon wilfull contemners of Our Royall Will and Command, grounded vpon the good and well-fare of Our Realme: to which purpose, Our wil &amp; pleasure is, and We do hereby straitly charge and command Our At<g ref="char:EOLhyphen"/>tourny General for the time being, to informe against such persons in Our Court of Star cham<g ref="char:EOLhyphen"/>ber from time to time, whose contempt and disobedience against this Our Royall Command, shall merit the censure of Our sayd Court, and to prosecute euery such Information, speedily, and effecually, vntill the same shal be brought to sentence:</p>
+               <p>Declaring neuerthelesse, that Wee doe not intend, or comprehend vnder any the Forfeitures, Penalties, or Censures aboue expressed, any such person or persons whatsoeuer, who commit<g ref="char:EOLhyphen"/>ting or offending against any the premises with any other person, shall within fourty dayes next after his sayd offence, and delict perpetrated (so the same bee before any other person hath related and discouered his offence, or proceeded against him) discouer such other person or persons with whom he committed, or did the sayd offence, but for such his Information, relation, and discouery, shall be both freed of his owne Forfeitures, Penalties, and Censure aforesayd, as also enioy all such part of the Forfeiture of the said other party to the same offence, as amply as any other In<g ref="char:EOLhyphen"/>former or Relator, not hauing offended, might haue done, to whom, and to all other Discouerers, and such as will informe, concerning the premises, ouer and besides such part of the Forfeitures and Penalties allowed them by any the Statuies, or Actes of Parliament, made concerning the premises, such part of the Forfeitures accruing to Vs, as by Our said Commissioners shall be thought fit, shall be giuen and payd vnto them and euery of them, for their further reward for their discouery of any offence committed against all, or any of the premises.</p>
+               <closer>
+                  <dateline>
+                     <hi>Giuen at Our Court at White-Hall </hi>
+                     <date>
+                        <hi>the fiue and twentieth day of May, in the third yeere of Our Reigne of England, Scotland, France, and Ireland.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+               <closer>God saue the King.</closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings most Excellent Maiestie. M.DC.XXVII.</p>
+         </div>
+         <div type="location_of_the_exchange">
+            <p>
+               <hi>The Office of His Maiesties Exchange for the Citie of</hi> London, <hi>is kept at the House of the late Shiriffe</hi> Westthrows, <hi>ouer against the Inne, called,</hi> The George, <hi>in Lumbard-streete.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
